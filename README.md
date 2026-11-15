@@ -1,6 +1,6 @@
-# Facade — Habite-se de Obra
+# Facade para Habite-se de Obra
 
-Implementação do padrão de projeto **Facade**, aplicada à liberação do habite-se de uma obra: a obra pede a liberação a uma fachada, que consulta prefeitura, corpo de bombeiros e concessionária e só libera se nenhum desses órgãos tiver pendência.
+Implementação do padrão de projeto **Facade**, aplicada à liberação do habite-se de uma obra.
 
 ## Diagrama UML
 
